@@ -7,6 +7,7 @@
 }
 
 .tip span {
+    text-transform: uppercase;
     color: #ecfa00;
 }
 
