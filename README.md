@@ -1,3 +1,6 @@
+# Secret Words
+### Projeto criado durante estudo de React
+
 <<<<<<< HEAD
 # Getting Started with Create React App
 
